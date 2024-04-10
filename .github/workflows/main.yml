@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - id: foo
-        uses: JakubLinhart/CheatingAction@bf00f49
+        uses: JakubLinhart/CheatingAction@bf00f4973dcea0911b4a58915e2d19daecd13198
